@@ -828,6 +828,21 @@
   dependencies:
     "@volar/language-core" "1.4.1"
 
+"@volar/vue-language-core@1.6.3":
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/@volar/vue-language-core/-/vue-language-core-1.6.3.tgz#20113de55c21f210dd5dc740891b5f3d8f9c0bac"
+  integrity sha512-e9OTDCPa8Wuh0ORhD4z++qTIcrsrqcI9waspr93YcQCq6j+Q+JTFuy7HBSQgyezSAsP6x1WWokKVk4fWWDJQOw==
+  dependencies:
+    "@volar/language-core" "1.4.1"
+    "@volar/source-map" "1.4.1"
+    "@vue/compiler-dom" "^3.3.0-beta.3"
+    "@vue/compiler-sfc" "^3.3.0-beta.3"
+    "@vue/reactivity" "^3.3.0-beta.3"
+    "@vue/shared" "^3.3.0-beta.3"
+    minimatch "^9.0.0"
+    muggle-string "^0.2.2"
+    vue-template-compiler "^2.7.14"
+
 "@volar/vue-language-core@1.6.4":
   version "1.6.4"
   resolved "https://registry.yarnpkg.com/@volar/vue-language-core/-/vue-language-core-1.6.4.tgz#b1d695861945e63c65ff4e74609b07cb06772b7c"
