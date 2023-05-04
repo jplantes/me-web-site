@@ -1,0 +1,18 @@
+@import './base.css';
+
+
+/* Fuentes
+font-family: 'Caveat', cursive;
+font-family: 'Quicksand', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Quicksand:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+}
