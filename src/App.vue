@@ -56,8 +56,8 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
   </header>
 
   <div class="relative isolate px-6 pt-14 lg:px-8">
-    <div class="mx-auto max-w-2xl py-32 sm:py-14 lg:py-56">
-      <div class="hidden sm:mb-8 sm:flex sm:justify-center">
+    <div class="mx-auto max-w-2xl py-44 sm:py-14 lg:py-56">
+      <div class="mb-8 flex justify-center">
         <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
           Me estoy construyendo lento pero bonito. 
         </div>
@@ -76,8 +76,8 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/vue.png" alt="Logo vue" width="158" height="48">
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/react.png" alt="Logo react" width="158" height="48">
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/angular.png" alt="Logo angular" width="158" height="48">
-        <img class="col-span-2 max-h-16 w-full object-contain col-start-1 sm:col-start-auto lg:col-span-1" src="@/assets/images/node.png" alt="Logo node" width="158" height="48">
-        <img class="col-span-2 max-h-14 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/tailwindcss.png" alt="Logo tailwindcss" width="158" height="48">
+        <img class="col-span-2 max-h-16 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/node.png" alt="Logo node" width="158" height="48">
+        <img class="col-span-2 max-h-14 w-full object-contain col-start-2 sm:col-start-auto lg:col-span-1" src="@/assets/images/tailwindcss.png" alt="Logo tailwindcss" width="158" height="48">
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
       <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-3">
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/js.png" alt="Logo JavaScript" width="158" height="48">
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/css3.png" alt="Logo css3" width="158" height="48">
-        <img class="col-span-2 max-h-24 w-full object-contain col-start-1 sm:col-start-auto lg:col-span-1" src="@/assets/images/html5.png" alt="Logo html5" width="158" height="48">
+        <img class="col-span-2 max-h-24 w-full object-contain col-start-2 sm:col-start-auto lg:col-span-1" src="@/assets/images/html5.png" alt="Logo html5" width="158" height="48">
       </div>
     </div>
   </div>
@@ -104,7 +104,7 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
           jplantes@gmail.com
         </p>
       </div>
-      <dl class="grid grid-cols-1 gap-x-8 gap-y-10 sm:grid-cols-2 lg:pt-2">
+      <dl class="grid grid-cols-2 gap-x-8 gap-y-10 sm:grid-cols-2 lg:pt-2">
         <div class="flex flex-col items-start">
           <dt class="mt-4 font-semibold text-white">Sitios</dt>
           <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><LinkedIn /> LinkedIn</dd>
