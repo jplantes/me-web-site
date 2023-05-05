@@ -72,11 +72,12 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
   <div class="bg-white py-10 sm:py-10">
     <div class="mx-auto max-w-7xl px-2 lg:px-8">
       <h2 class="text-center text-lg font-semibold leading-8 text-gray-900">Frameworks mas utilizados</h2>
-      <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-8 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-4">
-        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/vue.png" alt="Transistor" width="158" height="48">
-        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/react.png" alt="Transistor" width="158" height="48">
-        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/angular.png" alt="SavvyCal" width="158" height="48">
-        <img class="col-span-2 max-h-16 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/node.png" alt="Statamic" width="158" height="48">
+      <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/vue.png" alt="Logo vue" width="158" height="48">
+        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/react.png" alt="Logo react" width="158" height="48">
+        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/angular.png" alt="Logo angular" width="158" height="48">
+        <img class="col-span-2 max-h-16 w-full object-contain col-start-1 sm:col-start-auto lg:col-span-1" src="@/assets/images/node.png" alt="Logo node" width="158" height="48">
+        <img class="col-span-2 max-h-14 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/tailwindcss.png" alt="Logo tailwindcss" width="158" height="48">
       </div>
     </div>
   </div>
@@ -85,9 +86,9 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
     <div class="mx-auto max-w-7xl px-2 lg:px-8">
       <h2 class="text-center text-lg font-semibold leading-8 text-gray-900">Lenguajes mas utilizados</h2>
       <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/js.png" alt="SavvyCal" width="158" height="48">
-        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/css3.png" alt="Reform" width="158" height="48">
-        <img class="col-span-2 max-h-24 w-full object-contain col-start-1 sm:col-start-auto lg:col-span-1" src="@/assets/images/html5.png" alt="Tuple" width="158" height="48">
+        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/js.png" alt="Logo JavaScript" width="158" height="48">
+        <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/css3.png" alt="Logo css3" width="158" height="48">
+        <img class="col-span-2 max-h-24 w-full object-contain col-start-1 sm:col-start-auto lg:col-span-1" src="@/assets/images/html5.png" alt="Logo html5" width="158" height="48">
       </div>
     </div>
   </div>
