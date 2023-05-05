@@ -76,7 +76,7 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/vue.png" alt="Logo vue" width="158" height="48">
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/react.png" alt="Logo react" width="158" height="48">
         <img class="col-span-2 max-h-24 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/angular.png" alt="Logo angular" width="158" height="48">
-        <img class="col-span-2 max-h-16 w-full object-contain sm:col-start-auto lg:col-span-1" src="@/assets/images/node.png" alt="Logo node" width="158" height="48">
+        <img class="col-span-2 max-h-16 w-full object-contain sm:col-start-2 lg:col-span-1" src="@/assets/images/node.png" alt="Logo node" width="158" height="48">
         <img class="col-span-2 max-h-14 w-full object-contain col-start-2 sm:col-start-auto lg:col-span-1" src="@/assets/images/tailwindcss.png" alt="Logo tailwindcss" width="158" height="48">
       </div>
     </div>
