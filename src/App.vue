@@ -56,7 +56,7 @@ import { GitHub, Code, Instagram, LinkedIn } from '@iconoir/vue'
   </header>
 
   <div class="relative isolate px-6 pt-14 lg:px-8">
-    <div class="mx-auto max-w-2xl py-44 sm:py-14 lg:py-56">
+    <div class="mx-auto max-w-2xl py-80 sm:py-14 lg:py-56">
       <div class="mb-8 flex justify-center">
         <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
           Me estoy construyendo lento pero bonito. 
