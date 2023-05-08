@@ -12,6 +12,9 @@
   },
   "dependencies": {
     "@iconoir/vue": "^6.7.0",
+    "@tanstack/vue-query": "^4.29.5",
+    "axios": "^1.4.0",
+    "epic-spinners": "^2.0.0",
     "firebase": "^9.21.0",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
