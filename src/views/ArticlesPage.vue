@@ -3,7 +3,6 @@
     class="h-screen flex justify-center pt-24"
   >
     <div class="flex flex-col">
-      <p class="mb-5">Buscando articulos...</p>
       <div class="">
         <spring-spinner
           :animation-duration="3000"
