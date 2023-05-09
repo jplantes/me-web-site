@@ -25,12 +25,13 @@
       :key="article.id"
       class="border rounded-md p-4 my-4"
     >
-      <h3 class="text-xl mb-3 font-semibold">{{ article.title }}</h3>
+      <h3 class="text-xl font-semibold">{{ article.title }}</h3>
+      <p class="text-gray-400">{{ article.description }}</p>
       <div class="my-3">
         <span 
           v-for="tag in article.tag_list"
           :key="tag"
-          class="mr-1 p-1 rounded border-2 text-sm"
+          class="mr-1 px-2 rounded-2xl border-2 text-sm"
         >
           {{ tag }}
         </span>
