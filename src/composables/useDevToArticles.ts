@@ -11,7 +11,10 @@ const useDevToArticles = () => {
 
   const { isLoading, data } = useQuery(
     ['articles'],
-    getArticles
+    getArticles,
+    {
+      cacheTime: 1000 * 60 * 5
+    }
   )
 
   return {
