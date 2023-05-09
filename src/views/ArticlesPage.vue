@@ -16,7 +16,7 @@
 
   <div
     v-else
-    class="container mx-auto px-2 bg-white text-gray-600"
+    class="container mx-auto px-2 bg-white text-gray-600 animate__animated animate__fadeIn"
   >
     <h1 class="text-center text-5xl p-12 font-semibold">Articulos dev.to</h1>
 
