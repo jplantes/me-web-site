@@ -11,7 +11,7 @@
           <h2 class="text-2xl font-semibold">Experiencia</h2>
 
           <section class="mt-5 shadow rounded-lg p-3">
-            <img src="src/assets/images/NTT-Data-Logo.png" class="w-40" alt="Logo NTT DATA">
+            <img src="../assets/images/NTT-Data-Logo.png" class="w-40" alt="Logo NTT DATA">
             <p class="text-md text-gray-600">
               Senior Software Engineer
               <span class="text-xs">
@@ -25,7 +25,7 @@
           </section>
 
           <section class="mt-5 shadow rounded-lg p-3">
-            <img src="src/assets/images/NTT-Data-Logo.png" class="w-40" alt="Logo NTT DATA">
+            <img src="../assets/images/NTT-Data-Logo.png" class="w-40" alt="Logo NTT DATA">
             <p class="text-md text-gray-600">
               Sys Admin Linux
               <span class="text-xs">
@@ -41,7 +41,7 @@
           </section>
 
           <section class="mt-5 shadow rounded-lg p-3">
-            <img src="src/assets/images/enerminds-logo.png" class="w-40" alt="Logo Enerminds">
+            <img src="../assets/images/enerminds-logo.png" class="w-40" alt="Logo Enerminds">
             <p class="text-md text-gray-600">
               Ingeniero en Soporte Técnico
               <span class="text-xs">
@@ -71,7 +71,7 @@
           </section>
 
           <section class="mt-5 shadow rounded-lg p-3">
-            <img src="src/assets/images/indra-logo.png" class="w-40" alt="Logo Indra">
+            <img src="../assets/images/indra-logo.png" class="w-40" alt="Logo Indra">
             <p class="text-md text-gray-600">
               Implementador Técnico / Administrador de Red
               <span class="text-xs">
