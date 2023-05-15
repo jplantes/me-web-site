@@ -13,9 +13,15 @@
         <dl class="grid grid-cols-2 gap-x-8 gap-y-10 sm:grid-cols-2 lg:pt-2">
           <div class="flex flex-col items-start">
             <dt class="mt-1 md:mt-4 font-semibold text-white">Sitios</dt>
-            <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><LinkedIn /> LinkedIn</dd>
-            <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><GitHub /> GitHub</dd>
-            <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><Code /> Dev.to</dd>
+            <a href="https://www.linkedin.com/in/jplantes/" target="_blank">
+              <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><LinkedIn /> LinkedIn</dd>
+            </a>
+            <a href="https://github.com/jplantes" target="_blank">
+              <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><GitHub /> GitHub</dd>
+            </a>
+            <a href="https://dev.to/elcascarudodev" target="_blank">
+              <dd class="flex gap-2 mt-2 leading-7 text-gray-400"><Code /> Dev.to</dd>
+            </a>
           </div>
           <div class="flex flex-col items-start">
             <dt class="mt-1 md:mt-4 font-semibold text-white">Redes sociales</dt>
